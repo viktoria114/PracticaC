@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682199069 source:c:\users\vikto\onedrive\escritorio\algoritmos\pruebaschatgpt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

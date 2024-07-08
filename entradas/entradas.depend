@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685313454 source:c:\users\vikto\onedrive\escritorio\algoritmos\entradas\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+

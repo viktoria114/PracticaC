@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697630264 source:c:\users\vikto\onedrive\escritorio\programacion\practica3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

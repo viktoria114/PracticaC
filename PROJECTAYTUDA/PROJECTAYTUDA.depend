@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686588979 source:c:\users\vikto\onedrive\escritorio\algoritmos\projectaytuda\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
+1685488921 source:c:\users\vikto\onedrive\escritorio\algoritmos\projectaytuda\loquehicemati.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+

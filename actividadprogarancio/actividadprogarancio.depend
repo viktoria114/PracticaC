@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695737094 source:c:\users\vikto\onedrive\escritorio\programacion\actividadprogarancio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

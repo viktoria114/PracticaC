@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683046967 source:c:\users\vikto\onedrive\escritorio\algoritmos\arregloflotante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
